@@ -6,6 +6,8 @@ public class class1 {
 		
 		
 		System.out.println("running main method");
+		System.out.println("running main method2");
+		System.out.println("running main method3");
 	}
 
 }
